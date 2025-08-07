@@ -1,0 +1,10 @@
+.country-info {
+  background: #f7f7f7;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+svg path:hover {
+  fill: #aed8fc;
+  cursor: pointer;
+}
